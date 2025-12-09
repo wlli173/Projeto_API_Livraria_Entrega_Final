@@ -128,3 +128,7 @@ O **Vite** iniciará o servidor de desenvolvimento em:
 👉 **http://localhost:3000**
 
 ---
+
+### Link para apresentação do projeto:
+
+https://youtu.be/1l5E2W_oI7Y
